@@ -1,4 +1,4 @@
-# Halloween-prank-python
+# Halloween Prank With Python
 halloween prank python and pygame with sound and a scary face
 
 ## Developement
